@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [**link**](https://portfolio-adiv933.vercel.app/)  
   
-- 📫 How to reach me **adityav090304+github@gmail.com**  
+- 📫 How to reach me [**gmail**](adityav090304+github@gmail.com)  
   
 # 🌐Socials:
 <p align="left">  
