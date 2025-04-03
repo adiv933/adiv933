@@ -1,9 +1,9 @@
-### Hey! I'm Aditya
-##### a full-stack dev.  
+### hey! i'm aditya
+##### a full-stack dev 
 
-- 👨‍💻 All of my projects are available at [**link**](https://portfolio-livid-seven-39.vercel.app/)  
+- 👨‍💻 All of my projects are available at [**link**](https://portfolio-adiv933.vercel.app/)  
   
-- 📫 How to reach me **adiv933.dev+github@gmail.com**  
+- 📫 How to reach me **adityav090304+github@gmail.com**  
   
 # 🌐Socials:
 <p align="left">  
