@@ -1,9 +1,9 @@
 <h3 align="left">Links:</h3>  
 <p align="left">
-<a href="https://portfolio-adiv933.vercel.app/" target="blank"><img align="center" src="https://icons.veryicon.com/png/o/miscellaneous/two-color-webpage-small-icon/user-244.png" alt="adiv933" height="40" width="40" /></a>  
-<a href="mailto:adiv933.dev+github@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="adiv933" height="25" width="30" /></a>  
-<a href="https://linkedin.com/in/adiv933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adiv933" height="25" width="30" /></a>  
-<a href="https://www.leetcode.com/adiv933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adiv933" height="25" width="30" /></a>  
+<a href="https://portfolio-adiv933.vercel.app/" target="_blank" rel="noopener noreferrer" ><img align="center" src="https://icons.veryicon.com/png/o/miscellaneous/two-color-webpage-small-icon/user-244.png" alt="adiv933" height="40" width="40" /></a>  
+<a href="mailto:adiv933.dev+github@gmail.com" target="_blank" rel="noopener noreferrer" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="adiv933" height="25" width="30" /></a>  
+<a href="https://linkedin.com/in/adiv933" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adiv933" height="25" width="30" /></a>  
+<a href="https://www.leetcode.com/adiv933" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adiv933" height="25" width="30" /></a>  
 </p>  
   
 ### Languages and Tools:
